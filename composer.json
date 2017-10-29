@@ -29,6 +29,7 @@
     },
     "require-dev": {
         "drupal/console": "~1.0",
+        "drupal/console-launcher": "~1.0",
         "drush/drush": "~8.0"
     },
     "conflict": {
